@@ -29,7 +29,7 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 
 - ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. Exploring the fantastical world of Hyrule and solving puzzles in the game is my favorite pastime.
 
-![Poor Koroks](https://github.com/Huntaylor/Huntaylor/../../../../gifs/tears-of-the-kingdom-totk.gif)
+![](https://github.com/Huntaylor/Huntaylor/../../../../gifs/tears-of-the-kingdom-totk.gif)
 
 ### Connect with Me
 
