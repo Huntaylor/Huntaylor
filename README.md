@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taylor Hunt</h1>
 <h3 align="center">A passionate Flutter Engineer from the USA</h3>
 
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=huntaylor" alt="huntaylor" />
   </a>
@@ -23,13 +23,13 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 
 - 💬 Ask me anything about **Flutter, Dart, or Cross-platform** development. I'm always excited to discuss tech-related topics and share knowledge.
 
-- 📫 You can reach me via email at **taylor.j.hunt98@gmail.com**. Feel free to get in touch if you have any questions or want to chat!
+- 📫 You can reach me via email at **<taylor.j.hunt98@gmail.com>**. Feel free to get in touch if you have any questions or want to chat!
 
 ### Fun Fact
 
 - ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. Exploring the fantastical world of Hyrule and solving puzzles in the game is my favorite pastime.
 
-![Poor Koroks]()
+![Poor Koroks](https://github.com/Huntaylor/Huntaylor/../../../../gifs/tears-of-the-kingdom-totk.gif)
 
 ### Connect with Me
 
