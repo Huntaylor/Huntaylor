@@ -13,7 +13,7 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 
 ### Current Projects
 
-- 🔭 I'm currently working on [Warranty Tracker](https://github.com/Huntaylor/warrantyKeeper), a Flutter app that helps users track and manage product warranties.
+- 🔭 I'm currently working on [Warranty Watch](https://github.com/Huntaylor/warrantyKeeper), a Flutter app that helps users track and manage product warranties.
 
 ### Work Experience
 
