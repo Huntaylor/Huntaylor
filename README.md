@@ -9,7 +9,7 @@
 
 ### About Me
 
-Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about creating innovative mobile applications and exploring the endless possibilities that Flutter offers. My goal is to craft reliable and user-friendly cross-platform applications that bring value to people's lives.
+Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about creating innovative mobile applications and exploring the endless possibilities that Flutter offers. I really enjoy using Flutter's game engine, Flame, by creating new games from my imagination. I also enjoy testing Flames capabilities by recreating older games I played years ago.
 
 ### Current Projects
 
