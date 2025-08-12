@@ -11,13 +11,9 @@
 
 Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about creating innovative mobile applications and exploring the endless possibilities that Flutter offers. I really enjoy using Flutter's game engine, Flame, by creating new games from my imagination. I also enjoy testing Flames capabilities by recreating older games I played years ago.
 
-### Current Projects
-
-- 🔭 I'm currently working on [Warranty Watch](https://github.com/Huntaylor/warrantyKeeper), a Flutter app that helps users track and manage product warranties.
-
 ### Work Experience
 
-- 💼 I am currently employed at **Deloitte**, where I get to work on exciting projects and collaborate with talented individuals in the tech industry.
+- 🦄 I am currently employed at **Very Good Ventures**, where I get to work on exciting projects and collaborate with talented individuals in the tech industry.
 
 ### How to Reach Me
 
