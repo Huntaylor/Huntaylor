@@ -13,19 +13,16 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 
 ### Work Experience
 
-- 🦄 I am currently employed at **Very Good Ventures**, where I get to work on exciting projects and collaborate with talented individuals in the tech industry.
+- 🦄 I am currently employed as an Engineer III at **Very Good Ventures**, where I get to work on exciting projects and collaborate with talented individuals in the tech industry.
 
-### How to Reach Me
-
-- 💬 Ask me anything about **Flutter, Dart, or Cross-platform** development. I'm always excited to discuss tech-related topics and share knowledge.
-
-- 📫 You can reach me via email at **<taylor.j.hunt98@gmail.com>**. Feel free to get in touch if you have any questions or want to chat!
+[![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
+[![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
 ### Fun Fact
 
 - ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. Exploring the fantastical world of Hyrule and solving puzzles in the game is my favorite pastime.
 
-![Poor Korok](https://github.com/Huntaylor/Huntaylor/gifs/tears-of-the-kingdom-totk.gif)
+![Poor Korok](gifs/tears-of-the-kingdom-totk.gif)
 
 ### Connect with Me
 
@@ -68,4 +65,9 @@ Here are some statistics about my GitHub activity:
 
 Feel free to explore my GitHub repositories to see more of my projects and contributions!
 
-Thank you for visiting my profile! I'm looking forward to connecting with fellow developers and collaborating on exciting projects. Let's build amazing things together! 😄
+Thank you for visiting my profile!
+
+[logo_black]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_black.png#gh-light-mode-only
+[logo_white]: https://raw.githubusercontent.com/VGVentures/very_good_brand/main/styles/README/vgv_logo_white.png#gh-dark-mode-only
+[very_good_ventures_link_dark]: https://verygood.ventures#gh-dark-mode-only
+[very_good_ventures_link_light]: https://verygood.ventures#gh-light-mode-only
