@@ -9,7 +9,7 @@
 
 ### About Me
 
-Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about creating innovative mobile applications and exploring the endless possibilities that Flutter offers. I really enjoy using Flutter's game engine, Flame, by creating new games from my imagination. I also enjoy testing Flames capabilities by recreating older games I played years ago.
+Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about creating mobile applications and exploring the possibilities that Flutter offers. I really enjoy using Flutter's game engine, Flame.
 
 ### Work Experience
 
@@ -17,8 +17,6 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
-
-### Fun Fact
 
 - ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. Exploring the fantastical world of Hyrule and solving puzzles in the game is my favorite pastime.
 
