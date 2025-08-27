@@ -18,7 +18,7 @@ Hello! I'm Taylor, a Flutter Engineer based in the USA. I'm enthusiastic about c
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-- ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. Exploring the fantastical world of Hyrule and solving puzzles in the game is my favorite pastime.
+- ⚡ Fun fact: I'm a huge **Legend of Zelda** fan. I grew up playing Majora's Mask and Ocarina of Time on the N64.
 
 ![Poor Korok](gifs/tears-of-the-kingdom-totk.gif)
 
